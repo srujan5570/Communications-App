@@ -1,3 +1,10 @@
+# Sample Output images
+![WhatsApp Image 2025-04-28 at 16 41 00_7af69582](https://github.com/user-attachments/assets/c47e4f7a-11c2-4d08-b070-49bef58bac7d)
+![WhatsApp Image 2025-04-28 at 16 41 01_c89ca178](https://github.com/user-attachments/assets/7bf9e417-874f-4577-93b1-e22f71ba467c)
+![WhatsApp Image 2025-04-28 at 16 41 01_2214497a](https://github.com/user-attachments/assets/530d6f1f-3792-43e9-805a-9db10e10bdbc)
+![WhatsApp Image 2025-04-28 at 16 41 00_761a06de](https://github.com/user-attachments/assets/d100ffc6-4369-48d2-b304-c4ace7896c5f)
+![WhatsApp Image 2025-04-28 at 16 40 59_8f0e049f](https://github.com/user-attachments/assets/d5a22796-3c37-4ef8-942e-704f13e5331f)
+
 # Real-Time Chat Application
 
 A modern real-time chat application built with React Native and Expo, featuring a clean UI and seamless messaging experience.
